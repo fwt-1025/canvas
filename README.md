@@ -26,7 +26,7 @@
 - 二次贝塞尔曲线
     - quadraticCurveTo(cp1x, cp1y, x, y) cp1x, cp1y 是第一个控制点， x, y为结束点
     - bezierCurveTo(cp1x, cp1y, cp2x, cp2y, x, y) cp1x, cp1y 是第一个控制点， cp2x, cp2y是第二个控制点， x, y为结束点
-    ![Canvas_curves](.\images\Canvas_curves.png)
+    ![Canvas_curves](https://github.com/fwt-1025/canvas/blob/main/images/Canvas_curves.png)
     上图中红色点位控制点， 蓝色点为开始点和结束点
 
 - 绘制样式和颜色
